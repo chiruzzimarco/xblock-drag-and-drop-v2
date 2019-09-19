@@ -482,7 +482,7 @@ msgstr "Rückmeldung"
 
 #: public/js/drag_and_drop.js
 msgid "Keyboard Help"
-msgstr "Tastaturhilfe"
+msgstr "Test translation"
 
 #: drag_and_drop_v2/public/js/drag_and_drop.js:305
 msgid "This is a screen reader-friendly problem"

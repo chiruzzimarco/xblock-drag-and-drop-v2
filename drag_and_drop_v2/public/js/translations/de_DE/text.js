@@ -93,7 +93,7 @@
     "Item text color": "Textfarbe der Auswahlm\u00f6glichkeit", 
     "Items": "Auswahlm\u00f6glichkeit/en", 
     "Keeps maximum score achieved by student": "Maximale Punktzahl, die von dem Teilnehmer erreicht wurde", 
-    "Keyboard Help": "Tastaturhilfe", 
+    "Keyboard Help": "Test translation", 
     "Loading drag and drop problem.": "Laden der Drag&Drop Aufgabe", 
     "Max number of attempts reached": "Maximale Anzahl der erreichten Versuche", 
     "Maximum attempts": "Maximale Versuche", 
